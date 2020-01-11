@@ -1,0 +1,8 @@
+git add .
+git commit -m "US4332:login functionally has been added"
+
+git pull origin master  --> it will update your framework, multiple user working on the same repository
+git push origin master --> not get a conflict, push your code to your repository
+
+you will do one manual step for pull request
+
